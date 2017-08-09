@@ -1,5 +1,6 @@
 package com.dt.demo;
 
+//V1.1
 //文件名 : GuessANumber.java
 //通过继承 Thread 类创建线程
 public class GuessANumber extends Thread {

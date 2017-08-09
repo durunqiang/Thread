@@ -13,7 +13,7 @@ import java.util.ArrayList;
 * 再结合线程池接口ExecutorService就可以实现传说中有返回结果的多线程了。
 */  
 /**
-* 代码说明：
+* 代码说明：V1.1
 * 上述代码中Executors类，提供了一系列工厂方法用于创建线程池，返回的线程池都实现了ExecutorService接口。
 * public static ExecutorService newFixedThreadPool(int nThreads) 
 * 创建固定数目线程的线程池。
