@@ -1,5 +1,6 @@
 package com.dt.demo;
 
+//V1.2
 //ÎÄ¼şÃû : ThreadClassDemo.java
 public class ThreadClassDemo {
 

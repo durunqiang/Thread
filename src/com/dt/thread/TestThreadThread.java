@@ -1,6 +1,6 @@
 package com.dt.thread;
 
-//V1.1
+//V1.2
 class ThreadDemo extends Thread {
    private Thread t;
    private String threadName;

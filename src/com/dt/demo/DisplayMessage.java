@@ -1,6 +1,6 @@
 package com.dt.demo;
 
-//V1.1
+//V1.2
 //文件名 : DisplayMessage.java
 //通过实现 Runnable 接口创建线程
 public class DisplayMessage implements Runnable {
